@@ -54,10 +54,10 @@ div.figure {
 }
 
 footer.due-credit{
-  bottom: 10px;
-  position: sticky;
-  color: #696969;
+  font-size: 10px;
+  height: 30px;
   padding-left: 10px;
+  color: #696969;
 }
 
 div.figurefullwitdth {
