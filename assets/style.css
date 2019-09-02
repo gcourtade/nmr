@@ -53,6 +53,12 @@ div.figure {
   width: 100%;
 }
 
+footer.due-credit{
+  color: #696969;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
 div.figurefullwitdth {
   padding: 20px 0 20px 0;
   margin-left: -33px;
