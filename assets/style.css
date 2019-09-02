@@ -54,6 +54,8 @@ div.figure {
 }
 
 footer.due-credit{
+  bottom: 0%;
+  position: fixed;
   color: #696969;
   padding-left: 10px;
 }
