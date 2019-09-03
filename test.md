@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Test
-permalink: /test.html
+permalink: /test/
 ---
 
 This is a good test. I hope.
